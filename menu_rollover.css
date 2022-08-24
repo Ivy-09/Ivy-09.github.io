@@ -1,6 +1,6 @@
 body{
     background:#184352;}
-}
+
 .wrap{
     top:0;
     left:0;
@@ -41,4 +41,3 @@ body{
                 display: block;
                 opacity:1;
             visibility: visible;}
-}
