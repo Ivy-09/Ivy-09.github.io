@@ -40,4 +40,5 @@ body{
 .menu li:hover ul{
                 display: block;
                 opacity:1;
-            visibility: visible;}
+                visibility: visible;}
+}
