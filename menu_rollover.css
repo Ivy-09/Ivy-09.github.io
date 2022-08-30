@@ -23,7 +23,7 @@ body{
     list-style:none;
 }
 .menu li{
-    color:'#B3B3B3;
+    color:#B3B3B3;
     display:inline-block;
     margin-right:-2px;
     position:relative;
@@ -34,7 +34,7 @@ body{
     cursor:pointer;
 }
 .menu li:hover{
-    background-color: #5EAFDF
+    background-color: #5EAFDF;
                color:#fff;}
 
 .menu li:hover ul{
